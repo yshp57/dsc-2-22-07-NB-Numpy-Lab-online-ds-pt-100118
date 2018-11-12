@@ -1,9 +1,13 @@
 
-# Naive Bayes Classifier in Python. 
+## Naive Bayes Classifier in Numpy  - Lab
+
+## Introduction
 
 Naive Bayes classifiers are a **family of probabilistic classifiers** based on Bayes' theorem, with an assumption that each feature is independent from one another. Previously we looked at the learning mechanism of this classifier in terms of maximizing the posterior probability. In this lab we shall learn to code a **Gaussian Naive Bayes Classifier** from scratch , and also learn to use scikitlearn library for this task.   
 
-## Objectives:
+## Objectives
+
+You will be able to:
 
 - Build a Naive Bayes Classifier in Python and Numpy to make predictions on unseen data. 
 
