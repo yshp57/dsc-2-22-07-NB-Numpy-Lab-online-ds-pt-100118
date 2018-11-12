@@ -1,5 +1,5 @@
 
-## Naive Bayes Classifier in Numpy  - Lab
+# Naive Bayes Classifier in Numpy  - Lab
 
 ## Introduction
 
